@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\EnglishWeether.exe
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\EnglishWeether.deps.json
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\EnglishWeether.runtimeconfig.json
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\EnglishWeether.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\EnglishWeether.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\ref\EnglishWeether.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\bin\Debug\net5.0\EnglishWeether.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.AssemblyInfo.cs
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\ref\EnglishWeether.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\EnglishWeether\obj\Debug\net5.0\EnglishWeether.genruntimeconfig.cache

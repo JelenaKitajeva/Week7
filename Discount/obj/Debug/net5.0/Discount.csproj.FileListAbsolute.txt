@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\Discount.exe
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\Discount.deps.json
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\Discount.runtimeconfig.json
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\Discount.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\Discount.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\ref\Discount.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\bin\Debug\net5.0\Discount.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.AssemblyInfo.cs
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\ref\Discount.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\Discount\obj\Debug\net5.0\Discount.genruntimeconfig.cache

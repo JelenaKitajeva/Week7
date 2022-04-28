@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\RockScissorsPaper.exe
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\RockScissorsPaper.deps.json
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\RockScissorsPaper.runtimeconfig.json
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\RockScissorsPaper.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\RockScissorsPaper.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\ref\RockScissorsPaper.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\net5.0\RockScissorsPaper.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.AssemblyInfo.cs
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\ref\RockScissorsPaper.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\net5.0\RockScissorsPaper.genruntimeconfig.cache

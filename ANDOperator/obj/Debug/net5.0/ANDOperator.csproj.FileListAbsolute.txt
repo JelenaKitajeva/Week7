@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ANDOperator.exe
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ANDOperator.deps.json
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ANDOperator.runtimeconfig.json
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ANDOperator.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ANDOperator.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ref\ANDOperator.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\bin\Debug\net5.0\ANDOperator.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.AssemblyInfo.cs
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ref\ANDOperator.dll
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.pdb
+C:\Users\lena_\source\repos\RockScissorsPaper\ANDOperator\obj\Debug\net5.0\ANDOperator.genruntimeconfig.cache
